@@ -1,5 +1,5 @@
 {
-    "name": "appzcoder/crud-generator",
+    "name": "fromdz27/crud-generator",
     "license": "MIT",
     "description": "Laravel 5 CRUD Generator",
     "keywords": [
@@ -10,9 +10,9 @@
     ],
     "authors": [
         {
-            "name": "Sohel Amin",
-            "email": "sohelamincse@gmail.com",
-            "homepage": "http://www.appzcoder.com"
+            "name": "Fromdz27",
+            "email": "fromdz27@gmail.com",
+            "homepage": ""
         }
     ],
     "require": {
